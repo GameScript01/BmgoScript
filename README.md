@@ -15,5 +15,10 @@ player.doubleJumpCount = 999999
 # Speed Hack
 ```
 local player = PlayerManager:getClientPlayer().Player
-player:setSpeedAdditionLevel(15000)
+player:setSpeedAdditionLevel(put num here)
+```
+
+# No Fall
+```
+ClientHelper.putIntPrefs("SprintLimitCheck", 1)
 ```
