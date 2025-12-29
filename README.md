@@ -1,4 +1,4 @@
-# BmgoApi
+# BmgoScript
 - Create by XTP Panel team
 - Please don't own this to your
 
