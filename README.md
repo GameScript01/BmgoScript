@@ -2,7 +2,8 @@
 Create By XTP Panel Team
 
 # InfJump
-- ```GMHelper = {}
+```
+GMHelper = {}
 
 ClientHelper.putBoolPrefs("EnableDoubleJumps", true)
 
