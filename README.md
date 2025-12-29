@@ -1,5 +1,5 @@
 # BmgoScript
-- Create by XTP Panel team
+- Create by XT Panel team
 - Please don't own this to your
 
 # InfJump
